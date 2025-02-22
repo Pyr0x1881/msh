@@ -15,6 +15,7 @@
     "ID": "52fdfc0721feefe75af65af163f82654f163f",
     "Debug": 1,
     "AllowSuspend": false,
+    "SuspendRefresh": 0,
     "InfoHibernation": "                   §fserver status:\n                   §b§lHIBERNATING",
     "InfoStarting": "                   §fserver status:\n                    §6§lWARMING UP",
     "NotifyUpdate": true,
